@@ -15,19 +15,22 @@ An exploratory data analysis project focused on understanding the relationship b
 - Pandas
 - NumPy
 - Matplotlib
-- Jupyter Notebook
+- Google Colab
 
 ## 🔍 Concepts Practiced
 
 - Data exploration & cleaning
+- Descriptive statistics
 - Conditional filtering & Boolean masking
 - `apply()`
 - `query()`
 - `replace()`
 - `np.where()`
 - `np.select()`
-- Aggregations
-- `groupby()`
+- Aggregations with `groupby()` and `agg()`
+- `transform()` for department-level benchmarks
+- Feature engineering
+- Employee-level comparative analysis
 - Data visualisation
 - Extracting business insights
 
